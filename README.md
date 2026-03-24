@@ -31,7 +31,7 @@ npm install
 npm start
 
 📸 Screenshot
-![App Screenshot](images/screenshot.png)
+![App Screenshot](Screenshot.png)
 
 💡 What I Learned
 How to build a full stack application
